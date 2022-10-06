@@ -1,5 +1,5 @@
 # Finder-of-file-and-its-copies
-Console application which finds the location of the file and its copies in the given directory by hash code
+Console application which finds the location of the file and its copies (if exist) in the given directory by hash code
 
 Для запуска:
 
