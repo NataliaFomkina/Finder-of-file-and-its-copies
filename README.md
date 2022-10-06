@@ -10,7 +10,7 @@ Console application which finds the location of the file and its copies in the g
 
 To launch:
 
-1.Make sure you have java installed on your computer (in command line run: java --version)
+1. Make sure you have java installed on your computer (in command line run: java --version)
 2. Download Main.class
 3. Open command line, change current directory to Main.class file's directory
 4. Execute: java Main
