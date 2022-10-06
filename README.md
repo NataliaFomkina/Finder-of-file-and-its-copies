@@ -3,13 +3,14 @@ Console application which finds the location of the file and its copies in the g
 
 Для запуска:
 
-Убедиться, что на компьютере установлена java (в командной строке выполнить: java --version)
-Скачать Main.class
-Открыть командную строку и перейти в директорию, где лежит Main.class
-Выполнить команду java Main
+1. Убедиться, что на компьютере установлена java (в командной строке выполнить: java --version)
+2. Скачать Main.class
+3. Открыть командную строку и перейти в директорию, где лежит Main.class
+4. Выполнить команду java Main
+
 To launch:
 
-Make sure you have java installed on your computer (in command line run: java --version)
-Download Main.class
-Open command line, change current directory to Main.class file's directory
-Execute: java Main
+1.Make sure you have java installed on your computer (in command line run: java --version)
+2. Download Main.class
+3. Open command line, change current directory to Main.class file's directory
+4. Execute: java Main
